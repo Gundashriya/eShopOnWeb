@@ -9,7 +9,7 @@ env:
   LOCATION: centralindia
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 65a61d3e-20c6-46c2-b7f1-439413172d61
-  WEBAPP-NAME: devops-webapp-centralindia
+  WEBAPP-NAME: devops-webapp-centralindia-321
 
 
 jobs:
