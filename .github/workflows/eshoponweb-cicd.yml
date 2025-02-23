@@ -5,11 +5,11 @@ on: workflow_dispatch
 
 #Environment variables https://docs.github.com/en/actions/learn-github-actions/environment-variables
 env:
-  RESOURCE-GROUP: rg-eshoponweb-shriya
+  RESOURCE-GROUP: AZ400-RG2
   LOCATION: centralindia
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 65a61d3e-20c6-46c2-b7f1-439413172d61
-  WEBAPP-NAME: devops-webapp-centralindia-321
+  WEBAPP-NAME: az400-webapp-india
 
 
 jobs:
